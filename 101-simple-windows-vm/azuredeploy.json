@@ -32,7 +32,6 @@
       "allowedValues": [
         "West US",
         "East US 2"
-        "EastAsia"
       ],
       "metadata":{
         "description":"Restrict choice to select data storage within US"
