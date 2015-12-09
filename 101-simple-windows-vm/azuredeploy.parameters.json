@@ -18,7 +18,7 @@
       "value": "West US"
     },
     
-    "sizeOfDiskInGb" {
+    "sizeOfDiskInGb": {
       "value":"20"
     }
   }
